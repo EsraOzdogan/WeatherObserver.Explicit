@@ -1,0 +1,2 @@
+# WeatherObserver.Explicit
+ INotifyPropertyChanged
