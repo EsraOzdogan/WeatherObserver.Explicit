@@ -1,0 +1,12 @@
+D:\yalova ünüversitesi\nesne yön\sourceCode\Observer.Explicit\bin\Debug\WeatherOMatic_Explicit.exe.config
+D:\yalova ünüversitesi\nesne yön\sourceCode\Observer.Explicit\bin\Debug\WeatherOMatic_Explicit.exe
+D:\yalova ünüversitesi\nesne yön\sourceCode\Observer.Explicit\bin\Debug\WeatherOMatic_Explicit.pdb
+D:\yalova ünüversitesi\nesne yön\sourceCode\Observer.Explicit\obj\Debug\WeatherOMatic_Explicit.exe
+D:\yalova ünüversitesi\nesne yön\sourceCode\Observer.Explicit\obj\Debug\WeatherOMatic_Explicit.pdb
+D:\yalova ünüversitesi\nesne yön\sourceCode\Observer.Explicit\obj\Debug\Observer.Explicit.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Observer.Explicit\bin\Debug\WeatherOMatic_Explicit.exe.config
+C:\Users\admin\Desktop\Observer.Explicit\bin\Debug\WeatherOMatic_Explicit.exe
+C:\Users\admin\Desktop\Observer.Explicit\bin\Debug\WeatherOMatic_Explicit.pdb
+C:\Users\admin\Desktop\Observer.Explicit\obj\Debug\Observer.Explicit.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Observer.Explicit\obj\Debug\WeatherOMatic_Explicit.exe
+C:\Users\admin\Desktop\Observer.Explicit\obj\Debug\WeatherOMatic_Explicit.pdb
